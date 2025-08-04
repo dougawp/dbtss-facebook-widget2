@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/(.*)",
+      "source": "/(.https://www.canva.com)",
       "headers": [
         { "key": "X-Frame-Options", "value": "" },
         { "key": "Content-Security-Policy", "value": "frame-ancestors *" }
